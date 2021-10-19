@@ -1,0 +1,9 @@
+tqdm
+scipy
+pandas
+seaborn
+jupyter
+matplotlib
+tensorflow
+scikit-learn
+jupyter_http_over_ws
